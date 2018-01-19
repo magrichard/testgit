@@ -14,5 +14,10 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function() {
+
+  print("Hello, fucking world!")
+  print('pull request')
+
   print("Hello, my poor fucking world!")
+
 }
