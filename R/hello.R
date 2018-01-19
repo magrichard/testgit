@@ -15,9 +15,12 @@
 
 hello <- function() {
 
+  print("Hello, all the fucking world!")
+
   print("Hello, fucking world!")
   print('pull request')
 
   print("Hello, my poor fucking world!")
+
 
 }
